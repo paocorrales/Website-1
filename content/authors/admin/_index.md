@@ -7,7 +7,7 @@ education:
     institution: Universidad de Buenos Aires
     year: 2020
 
-email: "agomez@sociales.uba.ar"
+
 highlight_name: false
 interests:
 - Investigación Social
@@ -22,7 +22,7 @@ role: Socióloga, docente e investigadora
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: agomez@sociales.uba.ar
 - display:
     header: true
   icon: twitter
