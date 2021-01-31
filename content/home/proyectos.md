@@ -7,14 +7,14 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
 title: Proyectos
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: proyectos
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Estudios Feministas
-    tag: Estudios Feministas
-  - name: Other
-    tag: Demo
+  - name: Investigación Social
+    tag: Investigación Social
+  - name: Ponencias
+    tag: Ponencias
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
