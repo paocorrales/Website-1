@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Hola"
-  url = "#about"
+  url = "#Hola"
   weight = 10
 
 [[main]]
@@ -33,14 +33,9 @@
   url = "courses/"
   weight = 60
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 70
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "media/resume.pdf"
-#    weight = 70
+[[main]]
+  name = "CV"
+  url = "media/AndreaGomezVargas2021.pdf"
+  weight = 70
