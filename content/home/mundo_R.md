@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Recent Publications
-subtitle: ''
+title: Mundo R
+subtitle: 'Participación en la Comunidad R'
 
 content:
   # Page type to display. E.g. post, talk, publication...
