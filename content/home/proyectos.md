@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Proyectos
 subtitle: ''
 
 content:
@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Estudios Feministas
+    tag: Estudios Feministas
   - name: Other
     tag: Demo
 
