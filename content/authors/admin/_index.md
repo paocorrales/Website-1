@@ -1,7 +1,7 @@
 ---
 bio: La estoy pensando
 
-education:
+educacion:
   courses:
   - course: Lic en Sociología
     institution: Universidad de Buenos Aires
@@ -9,7 +9,7 @@ education:
 
 
 highlight_name: false
-interests:
+intereses:
 - Investigación Social
 - Estudios de Género(s)
 - Políticas Públicas y Políticas Sociales
@@ -19,8 +19,8 @@ organizations:
 - name: Universidad de Buenos Aires  
   url: http://www.sociales.uba.ar/
 role: Socióloga, docente e investigadora
-social:
 
+social:
 - display:
     header: true
   icon: twitter
