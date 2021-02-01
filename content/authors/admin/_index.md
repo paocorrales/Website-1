@@ -20,9 +20,7 @@ organizations:
   url: http://www.sociales.uba.ar/
 role: Socióloga, docente e investigadora
 social:
-- icon: envelope
-  icon_pack: fas
-  link: agomez@sociales.uba.ar
+
 - display:
     header: true
   icon: twitter
