@@ -5,8 +5,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-slides: example
-summary: An example of using the in-built project page.
+summary: Ponencia presentada en las XIII Jornadas de Sociología  UBA Sociales 2019.
 tags:
 - Ponencias
 title: Mujeres Afro
@@ -18,7 +17,7 @@ url_video: ""
 
 Autoras: Abril Troche(UBA Sociales) y Andrea Gomez Vargas(UBA Sociales)
 
-Presentado en las XIII Jornadas de Sociología
+
 
 
 Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
