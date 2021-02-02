@@ -5,9 +5,7 @@ image:
   caption: Elaboración propia
   focal_point: Smart
 summary: 
-Autores:
-Abril Troche(UBA Sociales) 
-Andrea Gomez Vargas(UBA Sociales)
+Autoras: Abril Troche(UBA Sociales) y Andrea Gomez Vargas(UBA Sociales)
 
 Presentado en las XIII Jornadas de Sociología
 
