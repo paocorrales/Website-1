@@ -4,11 +4,7 @@ external_link: "http://jornadasdesociologia2019.sociales.uba.ar/altaponencia/?ac
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/me_andre
+
 slides: example
 summary: An example of using the in-built project page.
 tags:
