@@ -5,16 +5,18 @@ image:
   caption: 
   focal_point: Smart
 
-summary: Ponencia presentada en las XIII Jornadas de Sociología  UBA Sociales 2019.
+summary: Ponencia presentada en las XIII Jornadas de Sociología  UBA Sociales 2019 y en las X jornadas de jóvenes investigadores de Gino Germani2019.
+Autoras: Abril Troche(UBA Sociales) y Andrea Gomez Vargas(UBA Sociales)
 
 tags:
 - Ponencias
 
-title: Mujeres Afrodescendientes
+title: Mujeres afroargentinas, afrodescendiendes y de la diáspora africana: luchas y resistencias en la Argentina del siglo XXI
+
 
 ---
 
-Autoras: Abril Troche(UBA Sociales) y Andrea Gomez Vargas(UBA Sociales)
+
 
 
 
