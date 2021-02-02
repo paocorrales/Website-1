@@ -29,3 +29,8 @@
   name = "CV"
   url = "media/AndreaGomezVargas2021.pdf"
   weight = 50
+
+[[main]]
+  name = "Media"
+  url = "#media"
+  weight = 60
