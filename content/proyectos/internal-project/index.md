@@ -1,7 +1,7 @@
 ---
 date: "2019-08-09T00:00:00Z"
 external_link: "http://jornadasdesociologia2019.sociales.uba.ar/altaponencia/?acciones2=ver&id_mesa=3&id_ponencia=1355"
-image: featured
+image:
   caption: 
   focal_point: Smart
 
