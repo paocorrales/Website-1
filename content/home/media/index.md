@@ -10,7 +10,7 @@ headless: true
 weight: 66
 
 title: Media
-subtitle:
+subtitle: Elaboración de piezas gráficas para social media
 ---
 
 {{< gallery >}}
