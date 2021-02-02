@@ -1,7 +1,7 @@
 ---
 bio: La estoy pensando
 
-educacion:
+education:
   courses:
   - course: Lic en Sociología
     institution: Universidad de Buenos Aires
@@ -9,7 +9,7 @@ educacion:
 
 
 highlight_name: false
-intereses:
+interests:
 - Investigación Social
 - Estudios de Género(s)
 - Políticas Públicas y Políticas Sociales
@@ -39,4 +39,4 @@ title: Andrea
 
 Acá cuento cosas de mi - pendiente
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/AndreaGomezVargas2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
