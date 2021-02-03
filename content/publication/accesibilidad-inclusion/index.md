@@ -15,10 +15,10 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: ''
 publication_short: ""
 publication_types:
-- "2"
+- ""
 publishDate: "2017-01-01T00:00:00Z"
 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
