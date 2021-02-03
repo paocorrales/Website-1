@@ -11,12 +11,12 @@ author_notes:
 - Equal contribution
 authors:
 - admin
-- Robert Ford
+- Latin R
 date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  
   focal_point: ""
   preview_only: false
 projects: []
@@ -33,12 +33,12 @@ tags:
 title: An example journal article
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=xkRFGbZocIU&t=284s"
 ---
 
 
