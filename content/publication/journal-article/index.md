@@ -30,15 +30,15 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: LatinR 2020: Panel accesibilidad e inclusión
+title: An example journal article
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: "https://www.youtube.com/watch?v=xkRFGbZocIU&t=70s"
+url_video: ""
 ---
 
 
