@@ -18,10 +18,10 @@ projects: []
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ""
 publication_types:
-- " "
+- "2"
 publishDate: "2017-01-01T00:00:00Z"
 
-summary: ¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología?
+summary: Moderación de Panel en la Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo. 7 al 9 de octubre 2020 - Virtual
 tags:
 - Source Themes
 title: LatinR 2020 - panel accesibilidad e inclusión
