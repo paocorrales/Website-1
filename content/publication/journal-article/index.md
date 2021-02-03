@@ -12,7 +12,7 @@ Milagros Villavicencio - R-Ladies Natal - Brasil
 Fernanda Kelly - R-Ladies Goiânia - Brasil
 Lupe Canaviri Maydana - Laboratoria & PyLadies El Alto - Bolivia
 
-Para registrarse https://panel-2020.eventbrite.cl
+Para registrarse panel-2020.eventbrite.cl
 
 
 
