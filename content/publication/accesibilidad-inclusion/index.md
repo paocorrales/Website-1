@@ -1,5 +1,5 @@
 ---
-abstract: ¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología? intentando sumar mas texto
+abstract: ¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología?
 
 author_notes:
 - 
@@ -15,10 +15,10 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: ''
+publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ""
 publication_types:
-- ""
+- " "
 publishDate: "2017-01-01T00:00:00Z"
 
 summary: ¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología?
