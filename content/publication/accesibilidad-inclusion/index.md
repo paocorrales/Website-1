@@ -1,5 +1,5 @@
 ---
-abstract: ¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología?
+abstract: ¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología? intentando sumar mas texto
 
 author_notes:
 - 
@@ -21,8 +21,7 @@ publication_types:
 - ""
 publishDate: "2017-01-01T00:00:00Z"
 
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología?
 tags:
 - Source Themes
 title: LatinR 2020 - panel accesibilidad e inclusión
