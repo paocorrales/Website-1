@@ -23,8 +23,9 @@ publishDate: "2017-01-01T00:00:00Z"
 
 summary: Moderación de Panel en la Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo. 7 al 9 de octubre 2020 - Virtual
 tags:
-- Source Themes
-- Panel
+- Charlas
+- R
+- Accesibilidad e inclusión
 title: LatinR 2020 - panel accesibilidad e inclusión
 url_code: ""
 url_dataset: ""
