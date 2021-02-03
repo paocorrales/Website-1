@@ -1,6 +1,7 @@
 ---
 abstract: ¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología?
-En esta ocasión reunimos a integrantes de diferentes comunidades Latinoamericanas que promueven y trabajan por la inclusión y accesibilidad en el mundo de la tecnología para que den a conocer su trabajo, sus objetivos, logros y desafíos a la hora de lograr una inclusión y accesibilidad real. Queremos generar un espacio de reflexión, donde podamos pensar en conjunto sobre la importancia de que la tecnología sea más inclusiva y accesible a todes y pensar a las comunidades como actores principales para llevar a cabo este objetivo.
+ En esta ocasión reunimos a integrantes de diferentes comunidades Latinoamericanas que promueven y trabajan por la inclusión y accesibilidad en el mundo de la tecnología para que den a conocer su trabajo, sus objetivos, logros y desafíos a la hora de lograr una inclusión y accesibilidad real. 
+ Queremos generar un espacio de reflexión, donde podamos pensar en conjunto sobre la importancia de que la tecnología sea más inclusiva y accesible a todes y pensar a las comunidades como actores principales para llevar a cabo este objetivo.
 authors:
 - admin
 - Latin R
