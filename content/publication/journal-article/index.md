@@ -30,7 +30,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
+title: LatinR 2020 - panel accesibilidad e inclusión
 url_code: ""
 url_dataset: ""
 url_pdf: ""
