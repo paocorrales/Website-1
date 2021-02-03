@@ -27,7 +27,7 @@ slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
-- Mundo R
+
 title: LatinR 2020: Panel Accesibilidad e Inclusión
 url_code: '#'
 url_dataset: '#'
