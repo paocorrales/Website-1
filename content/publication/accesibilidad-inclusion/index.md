@@ -33,7 +33,7 @@ url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: "https://www.youtube.com/watch?v=xkRFGbZocIU&t=284s"
+url_panel en youtube: "https://www.youtube.com/watch?v=xkRFGbZocIU&t=284s"
 ---
 
 
