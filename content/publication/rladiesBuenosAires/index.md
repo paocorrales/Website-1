@@ -8,11 +8,12 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+-
+date: "2021-01-30T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Elaboración propia**]'
+  caption: 'Image credit: **Elaboración propia**'
   focal_point: ""
   preview_only: false
 links:
@@ -40,6 +41,7 @@ url_project: ""
 url_slides: ""
 url_source: '#'
 url_video: '#'
+url_youtube: https://www.youtube.com/channel/UCztAJhENVqsqv0cvyxs4sgg
 ---
 
 {{% callout note %}}
