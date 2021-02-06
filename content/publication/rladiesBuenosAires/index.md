@@ -21,14 +21,20 @@ links:
   url: https://www.meetup.com/es/rladies-buenos-aires/
 - name: Youtube
   url: https://www.youtube.com/channel/UCztAJhENVqsqv0cvyxs4sgg
+- name: Twitter
+  url: https://twitter.com/RLadiesBA
+- name: Instagram
+  url: https://www.instagram.com/rladiesba/
+- name: RLadies Global
+  url: https://rladies.org/
+  
 projects:
 - internal-project
-publication: In 
-publication_short: In *STC*
+publication:  
+publication_short: 
 publication_types:
-- "1"
+- ""
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
 summary: Comunidad
 tags:
 - R
