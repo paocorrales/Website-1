@@ -37,7 +37,8 @@ slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
-- Source Themes
+- R
+- RLadies BA
 title: An example preprint / working paper
 url_code: '#'
 url_dataset: '#'
@@ -49,8 +50,4 @@ url_source: '#'
 url_video: '#'
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
