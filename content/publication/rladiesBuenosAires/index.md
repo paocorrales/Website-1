@@ -1,42 +1,47 @@
 ---
-abstract: R-Ladies Buenos Aires es parte de una organización mundial para promover la Diversidad de Género en la comunidad R.Nuestra meta es crear una atmósfera amigable para personas interesadas en programar en R en Buenos Aires que se identifiquen con géneros menos representados en la comunidad de R (que incluye pero no se limita a mujeres cis/trans, hombres trans, personas no binarias, género fluído o agénero). No importa si nunca usaste R o si tenés R como herramienta principal de trabajo. El objetivo es promover R, intercambiar conocimiento y crear una red de contactos a nivel local y global. [rladies.org]
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
+  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
+  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
+  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
+  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
+  Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 - admin
 - RLadies BA
-date: "2021-01-30T00:00:00Z"
+date: "2013-07-01T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
-  caption: 'credit: Elaboración propia'
+  caption: 'Image credit: [**Elaboración propia**](https://unsplash.com)'
   focal_point: ""
   preview_only: false
 links:
 - name: Meetup
   url: https://www.meetup.com/es/rladies-buenos-aires/
+- name: Youtube
+  url: https://www.youtube.com/channel/UCztAJhENVqsqv0cvyxs4sgg
 projects:
 - internal-project
-publication: ""
-publication_short: ""
+publication: In 
+publication_short: In *STC*
 publication_types:
-- ""
-publishDate: "2021-01-30T00:00:00Z"
+- "1"
+publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: COMUNIDAD
+summary: Comunidad
 tags:
 - R
 - RLadies
 title: RLadies Buenos Aires
-url_code: '#'
-url_dataset: '#'
+url_code: ""
+url_dataset: ""
 url_pdf: ""
-url_poster: '#'
+url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: 'https://www.youtube.com/c/RLadiesBuenosAires'
+url_source: ""
+url_video: ""
 ---
-
-[rladies.org]:https://rladies.org/
-
 
 
