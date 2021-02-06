@@ -27,14 +27,13 @@ links:
   url: https://www.instagram.com/rladiesba/
 - name: RLadies Global
   url: https://rladies.org/
-  
 projects:
 - internal-project
-publication:  
-publication_short: 
-publication_types:
+publication:  ""
+publication_short: "" 
+publication_types: ""
 - ""
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-31T00:00:00Z"
 summary: Comunidad
 tags:
 - R
