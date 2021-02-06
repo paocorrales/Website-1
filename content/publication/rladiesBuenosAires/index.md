@@ -1,11 +1,15 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: R-Ladies Buenos Aires es parte de una organización mundial para promover la Diversidad de Género en la comunidad R.
+
+Nuestra meta es crear una atmósfera amigable para personas interesadas en programar en R en Buenos Aires que se identifiquen con géneros menos representados en la comunidad de R (que incluye pero no se limita a mujeres cis/trans, hombres trans, personas no binarias, género fluído o agénero). No importa si nunca usaste R o si tenés R como herramienta principal de trabajo. El objetivo es promover R, intercambiar conocimiento y crear una red de contactos a nivel local y global.
+
+Esta es una iniciativa social. Todos los eventos serán gratuitos.
+
+Nos encuentras en 
+
+Para más detalles sobre la iniciativa R-Ladies Global visitá [rladies.org]
+
+
 authors:
 - admin
 -
@@ -13,7 +17,7 @@ date: "2021-01-30T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: **Elaboración propia**'
+  caption: 'credit: **Elaboración propia**'
   focal_point: ""
   preview_only: false
 links:
@@ -37,11 +41,10 @@ url_code: '#'
 url_dataset: '#'
 url_pdf: ""
 url_poster: '#'
-url_project: ""
+url_project: "https://www.meetup.com/es/rladies-buenos-aires/"
 url_slides: ""
 url_source: '#'
-url_video: '#'
-url_youtube: https://www.youtube.com/channel/UCztAJhENVqsqv0cvyxs4sgg
+url_video: 'https://www.youtube.com/c/RLadiesBuenosAires'
 ---
 
 {{% callout note %}}
@@ -49,3 +52,5 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+[rladies.org]: https://rladies.org/
