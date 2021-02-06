@@ -39,15 +39,15 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - R
 - RLadies BA
-title: An example preprint / working paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
+title: RLadies Buenos Aires
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: '#'
+url_source: ""
+url_video: ""
 ---
 
 
